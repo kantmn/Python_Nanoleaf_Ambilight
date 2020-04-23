@@ -13,4 +13,3 @@ It should be much faster with a better computer, but there might still be a late
 
 # Demonstration
 Run the <a href="https://raw.githubusercontent.com/kantmn/Python_Nanoleaf_Ambilight/master/demo.mp4">simple preview video</a>
-Or see a demo video in uncompressed quality <a href="https://mega.nz/folder/CRkQ1Y7K#Uy_5d1jRqarbzSMAArMK4g"> here</a>
